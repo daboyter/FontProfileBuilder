@@ -6,7 +6,7 @@ _Important Note: Make sure there are no spaces in the pathname of that directory
 A few more notes if you want to use this:
 - Edit the Profile Identifier on line 24 to match your organization name.
 - Add the fonts to the same directory as the script and templates or vice versa.
-- I recommend signing the profile that ends up on the Completed Profile directory after running the script, especially if you're uploading to an MDM.
+- I recommend signing the profile that ends up on the Completed Profile directory after running the script, especially if you're uploading to an MDM. I use [Hancock](https://github.com/JeremyAgost/Hancock) for this, it's dead simple if you find GUIs helpful.
 - Jamf has a 16MB upload limit for configuration profiles. In my limited practice with the script that ended up being around 60 to 90 fonts. I wouldn't recommend going much over that, for both size and manageability reasons.
 
 Font profile template and modified from this [article](https://lindenbergsoftware.com/en/notes/installing-fonts-on-ios/index.html) from Lindenberg Software.

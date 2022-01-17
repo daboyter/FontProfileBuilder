@@ -21,7 +21,7 @@ echo "Using $configurationProfileFile as Output Profile"
 configurationProfileName=`basename $configurationProfileFile`
 echo "Setting Configuration Profile name: $configurationProfileName"
 
-ProfileIdentifier=com.samaritan.$configurationProfileName.fonts
+ProfileIdentifier=com.organization.$configurationProfileName.fonts
 echo "Creating Profile Identifier"
 
 ProfileUUID=`uuidgen`

@@ -1,0 +1,15 @@
+            <dict> 
+                <key>Name</key>
+                <string>fontname</string>
+                <key>PayloadIdentifier</key>
+                <string>fontidentifier</string>
+                <key>PayloadType</key>
+                <string>com.apple.font</string>
+                <key>PayloadUUID</key>
+                <string>fontpayloaduuid</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>Font</key>
+                <data>
+                </data>
+            </dict>

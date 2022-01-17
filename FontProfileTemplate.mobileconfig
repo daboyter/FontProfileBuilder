@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadDisplayName</key>
+        <string>profilename</string>
+        <key>PayloadIdentifier</key>
+        <string>profileidentifier</string>
+        <key>PayloadRemovalDisallowed</key>
+        <false/>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>profilepayloaduuid</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadContent</key>
+        <array>
+        </array>
+        </dict>
+</plist>
